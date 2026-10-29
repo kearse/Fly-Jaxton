@@ -1,0 +1,20 @@
+Generated with the built-in image generation tool. Photography only; all interface layouts are editable HTML/CSS, and logos are the approved outlined SVGs.
+
+ARCHITECTURE
+
+Use case: photorealistic-natural. Asset type: original aerial hero photograph for a premium creative and commercial drone company website, landscape 3:2.
+Create an immaculate editorial drone photograph of a sculptural modern architectural residence in a dry Mediterranean landscape. View from a moderately high oblique drone angle, see roof geometry and the entire property, not ground-level. Cream limestone rectilinear volumes arranged around a long dark swimming pool, muted olive trees, warm pale gravel, a carefully landscaped courtyard, expansive undulating natural terrain in distance. Sophisticated restrained architecture, realistic construction and material detail, low late-afternoon sun, long crisp shadows. The main house sits right-of-center; the left third has darker olive landscape and calm shadow with space for white headline text. Color treatment deep charcoal shadows, natural warm stone, muted olive, cinematic neutral color. Quiet, architectural and expensive editorial aesthetic. No people, no drone visible, no brand logos, no text, no watermark. This is a fictional architectural visual study, not a named real building or completed client job. Edge-to-edge photograph, not a website screenshot.
+
+---
+
+DETAIL
+
+Use case: photorealistic-natural. Asset type: original aerial architectural project-detail photograph, landscape 3:2.
+A premium near-vertical drone photograph of a fictional limestone modern residence, sharp geometric cream-stone flat roofs, an elegant long deep-blue rectangular pool and muted olive trees in warm pale gravel landscape. Focus on the interplay of roof planes, sunlight, water and long tree shadows; realistic architecture and construction. Architectural editorial photography from overhead, beautiful quiet negative space, precise composition with asymmetry, subtle warm highlights and dark neutral shadows, professional drone photography. No text, logos, people, drone, watermark, UI or frame. Consistent Mediterranean stone and olive visual world, no fantastic geometry, no identifiable named client property.
+
+---
+
+SITE
+
+Use case: photorealistic-natural. Asset type: original commercial drone photography for site-documentation service, landscape 3:2.
+Refined realistic aerial photograph of an organized small commercial construction site in a semi-rural setting, seen diagonally from moderate drone height. A modern low-rise building under construction, clean pale concrete foundation and partial structural frame, orderly access roads, earthworks, staged materials, a modest excavator and clear site perimeter. Composition graphic and well balanced, rich natural photographic texture, neutral stone and muted earth tones with dark olive distant trees. Late-afternoon directional light, credible practical construction, no dramatic danger, no people close-up. Useful commercial aerial view with clean edges and clear spatial context. No text, no logos, no invented labels, no overlays, no maps, no measurements, no watermarks or visible drones. Fictional project concept, not completed client work.

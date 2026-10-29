@@ -1,0 +1,25 @@
+{
+  "colors": {
+    "night": "#10151B",
+    "graphite": "#171C20",
+    "paper": "#F4F2EC",
+    "white": "#FFFFFF",
+    "lime": "#D3F36B",
+    "muted": "#A7B5C8"
+  },
+  "layout": {
+    "desktopMax": 1600,
+    "desktopGutter": "5vw",
+    "mobileGutter": 22,
+    "mobileBreakpoint": 760
+  },
+  "typography": {
+    "prototype": "Arial / system sans",
+    "recommendedDisplay": "Space Grotesk",
+    "recommendedBody": "Inter"
+  },
+  "logos": {
+    "dark": "assets/logo-dark.svg",
+    "light": "assets/logo-light.svg"
+  }
+}
