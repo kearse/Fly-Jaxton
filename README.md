@@ -1,29 +1,15 @@
-# Fly JAXTON
+# JAXTON
 
-JAXTON creative and commercial drone-services website.
+Static real estate drone website for Colorado Springs. HTML, CSS and vanilla JavaScript, with local fonts and supplied logo artwork. No install or build step.
 
-## Website
+## Hosting
 
-The latest six-page responsive design is deployed from the repository root. Open index.html locally or serve this folder with a static server. No build step is required.
+Serve this repository root. GitHub Pages should use main / (root). CNAME preserves flyjaxton.com. Upload index.html, css/, js/, and assets/ to any normal static host.
 
-Pages: Home, Work, Project, Services, About, and Inquiry. design-system.html and Website_Plan.md document the design direction.
+## Booking setup
 
-## GitHub Pages
+Edit js/config.js and set calUrl to your shared Cal.com event URL. Until configured, the sample calendar does not create appointments. Create a required booking question with identifier service and options Images, Video, Bundle, First shoot matching calServiceValues. Configure availability, property address, timezone, same-day notice and service pricing in Cal.com. Verify real bookings before launch.
 
-In Settings > Pages, choose Deploy from a branch, main, and /(root). Set the custom domain to flyjaxton.com. The CNAME file must remain at the repository root. Enable Enforce HTTPS when GitHub makes it available.
+## Content
 
-Namecheap host records (TTL Automatic):
-
-| Type | Host | Value |
-| --- | --- | --- |
-| A | @ | 185.199.108.153 |
-| A | @ | 185.199.109.153 |
-| A | @ | 185.199.110.153 |
-| A | @ | 185.199.111.153 |
-| CNAME | www | kearse.github.io |
-
-## Current content status
-
-This is the design prototype. Generated photographs are labeled as visual studies, not commissioned client work. The inquiry form validates and reviews details locally; it does not send submissions. Connect a chosen inquiry service and supply confirmed business details and real project work before treating it as the final business website.
-
-Original JAXTON SVG artwork is included. Web photography is provided in optimized WebP format; original high-resolution images remain in the local design kit.
+Regular prices: photos $125, video $200, bundle $299. First shoot free. introductoryPrice controls the displayed intro offer; it does not change Cal.com settings. Images and reviews are labeled placeholders. Replace sample photos with your footage and add genuine reviews in js/config.js. First-shoot eligibility is tracked manually. No checkout or HubSpot integration is included.
